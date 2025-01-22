@@ -26,10 +26,10 @@ SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/CROWN_FED_V4")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/siya_infoo")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "@I_shadwoo")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "I_shadwoo")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", @shadwo_pro_bot)
+BOT_USERNAME = getenv("BOT_USERNAME", shadwo_pro_bot)
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
