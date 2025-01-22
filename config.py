@@ -5,31 +5,31 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_ID = int(getenv("API_ID", "6435225"))
+API_ID = int(getenv("API_ID", "27308992"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
+API_HASH = getenv("API_HASH", "4b9957efa6ed62f60d9f30d7bd40c044")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", 7688322975:AAFU6JGKp9o5sK6N4tMiTBdK1aIGIQ0hAiQ)
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "5147822244"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://looktouhid:xhXxzOasbg3bPlFn@shadow.naeog.mongodb.net/?retryWrites=true&w=majority&appName=shadow")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/CROWN_FED_V4")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_EDITX")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/siya_infoo")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@I_shadwoo")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", None)
+BOT_USERNAME = getenv("BOT_USERNAME", @shadwo_pro_bot)
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
